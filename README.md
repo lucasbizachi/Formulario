@@ -13,8 +13,8 @@
 <h3>Funcionalidades:</h3>
   <p>A funcionalidade desse projeto é verificar os campos preenchidos e informar o usuário se pode prosseguir ou não.</p>
 <h3>Tecnologias Utilizadas:</h3>
-<p>HTML</p>
-<p>CSS</p>
-<p>JavaScript</p>
+<p><img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></p>
 <h3>Conclusão:</h3>
 <p>Saber como se constrói e como é a funcionalidade de um formulário é muito importante, assim como integrar essas ferramentas à melhores funcionalidades.</p>
