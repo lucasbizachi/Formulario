@@ -14,8 +14,8 @@
   
 <h3>Funcionalidades:</h3>
   <p>A funcionalidade desse projeto é verificar os campos preenchidos e informar o usuário se pode prosseguir ou não.</p>
-  <img src="assets/ezgif.com-gif-maker.gif"/>
-  <img src="assets/ezgif.com-gif-maker2.gif"/>
+ <p><img src="assets/ezgif.com-gif-maker.gif"/>
+  <img src="assets/ezgif.com-gif-maker2.gif"/></p>
   
 <h3>Tecnologias Utilizadas:</h3>
 <p><img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
