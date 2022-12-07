@@ -1,9 +1,9 @@
 <h1> Formulário </h1>
 <p>
-  <img src="https://img.shields.io/github/license/lucasbizachi/Formulario">
-  <img src="https://img.shields.io/github/languages/count/lucasbizachi/Formulario"/>
-  <img src="https://img.shields.io/github/languages/top/lucasbizachi/Formulario"/>
-  <img src="https://img.shields.io/github/repo-size/lucasbizachi/Formulario"/>
+  <img src="https://img.shields.io/github/license/lucasbizachi/Formulario">&#160;
+  <img src="https://img.shields.io/github/languages/count/lucasbizachi/Formulario"/>&#160;
+  <img src="https://img.shields.io/github/languages/top/lucasbizachi/Formulario"/>&#160;
+  <img src="https://img.shields.io/github/repo-size/lucasbizachi/Formulario"/>&#160;
 </p>
 
 <h3>Descrição:</h3>
@@ -14,7 +14,7 @@
   
 <h3>Funcionalidades:</h3>
   <p>A funcionalidade desse projeto é verificar os campos preenchidos e informar o usuário se pode prosseguir ou não.</p>
- <p><img src="assets/ezgif.com-gif-maker.gif"/>
+ <p><img src="assets/ezgif.com-gif-maker.gif"/>&#160;&#160;&#160;&#160;
   <img src="assets/ezgif.com-gif-maker2.gif"/></p>
   
 <h3>Tecnologias Utilizadas:</h3>
